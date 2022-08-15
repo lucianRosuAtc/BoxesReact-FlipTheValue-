@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(244, 196, 108);
+}
+.box {
+    display: inline-block;
+    height: 19vh;
+    width: 19vh;
+    margin-right: 7px;
+    cursor: pointer;
+}
