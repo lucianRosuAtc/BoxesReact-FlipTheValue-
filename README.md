@@ -2,6 +2,11 @@
 
 You could see this online at: https://boxes-react-flip-the-value.netlify.app/
 
+By pressing the white squares, they change their value and become black circles.
+Clicking on the black circles will change their value and become white squares.
+
+
+
 This application is made in React Vite. To be able to install the application, you must use VS Code.
 Create a project in React vite then copy the files.
 In the project directory, you can run:
