@@ -19,3 +19,4 @@ The page will reload when you make changes.
 More information about deployment at:  https://vitejs.dev/guide/#scaffolding-your-first-vite-project
 
 More info about the React documentation: https://vitejs.dev/guide/#scaffolding-your-first-vite-project
+:relaxed:
